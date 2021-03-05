@@ -583,6 +583,11 @@ h4{
   min-height: auto !important;
 }
 
+.page-header-small {
+  height: 40vh !important;
+  min-height: auto !important;
+}
+
 
 /*  PRESENTION PAGE   */
 
