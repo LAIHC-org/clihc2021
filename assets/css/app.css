@@ -10,8 +10,7 @@ h4{
 }
 
 .btn.btn-danger{
-  background-color: #fed006;
-  color: black;
+  background: linear-gradient(60deg, #ffa726, #f57c00);
 }
 
 .data{
